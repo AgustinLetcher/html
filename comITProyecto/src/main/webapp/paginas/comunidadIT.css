@@ -1,0 +1,40 @@
+body {
+	font-size: 13px;
+	font-family: Helvetica, "MS Verdana", sans-serif;
+	width:1000;
+	height:1000;
+	background-image: url(imagenes/01150_webdew_2560x1600.jpg);
+	background-repeat: no-repeat;
+}
+ 
+p#moto { 
+	color: #c0c0c0;
+	font-size: 35px;
+	font-family: Helvetica, "MS Verdana", sans-serif;
+	font-weight: 800;
+}
+
+ul#ul1 {
+	list-style-type: none;
+}
+
+a:visited {
+	color: #AD0BD5;
+}
+
+nav#nav1 {
+	width: 220px;
+	height: 230px;
+	background-color: #BDBDBD;
+	border-style: solid;
+	border-color: #884C90;
+	border-width: 3
+}
+
+nav#nav2 {
+float: left;
+}
+
+nav#nav3 {
+float: right;
+}
